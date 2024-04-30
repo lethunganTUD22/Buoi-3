@@ -1,0 +1,26 @@
+table, th, td{
+    border:1px none #c94f90;
+}
+table{
+    border-collapse:collapse;
+}
+tr:hover{
+    background-color:#ddd;
+    cursor:pointer;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+  }
+body {
+    background-image: url('https://i.pinimg.com/736x/6c/60/a2/6c60a25d4b7af4c9d71974d5891cd6aa.jpg');
+  }  
+ 
+body {
+    font-family:'Times New Roman', Times, serif;
+    
+    font-size: 16pt;
+    line-height:1.5;
+    text-align: justify;
+  }
